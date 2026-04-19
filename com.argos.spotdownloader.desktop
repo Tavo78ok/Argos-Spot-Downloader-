@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=ArgOS Spot Downloader
+Name[es]=ArgOS Spot Downloader
+Comment=Descarga música de Spotify con metadatos completos
+Comment[en]=Download music from Spotify with full metadata
+Exec=python3 /usr/share/argos-spot-downloader/main.py
+Icon=audio-x-generic
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Network;
+Keywords=spotify;music;download;opus;mp3;
+StartupWMClass=argos-spot-downloader
